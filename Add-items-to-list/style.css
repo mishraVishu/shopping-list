@@ -105,3 +105,15 @@ button[type='submit']{
   .error{
     border:2px solid red;
   }
+
+  .show{
+   visibility: visible;
+  }
+
+  .hide{
+    display: none;
+  }
+
+  .edit-mode{
+    color:#ccc;
+  }
